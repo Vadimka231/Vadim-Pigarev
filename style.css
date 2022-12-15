@@ -1,0 +1,23 @@
+body{
+    background-color:brown;
+}
+
+.squer{
+    background-color:black;
+    width: 1000px;
+    height: 1000px;
+    margin: 200px;
+}
+
+.lor{
+    color: azure;
+}
+
+.vero{
+    color: blue;
+}
+
+.world{
+    color: azure;
+    text-align: center;
+}
